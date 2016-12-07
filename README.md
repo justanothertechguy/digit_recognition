@@ -1,7 +1,9 @@
 # Handwritten Digit Recognition using Python 
 
+```
     Built a prediction model for classifying and recognizing handwritten digits based on training a     multi-class linear Support Vector Machine (SVM) classifier for predicting digits from the MNIST database of handwritten digits.(Python, OpenCV, Scikit-Learn , Scikit-Image and NumPy)
 
+```
 
 # Requirements
 
@@ -35,6 +37,11 @@ ex -
 ```
 python digits_Recognition.py -c digits_classifier.pkl -i test_image_1.jpg
 ```
+
+```
+python digits_Recognition.py -c digits_classifier.pkl -i test_image_2.jpg
+```
+
 
 # Contents
 
