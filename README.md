@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Python 
+# Digit Recognition using Python 
 
 
 Built a prediction model for classifying and recognizing handwritten digits based on training a multi-class 
